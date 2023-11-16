@@ -28,8 +28,10 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 NAME : PRAGATHEESVARAN AB
 REG NO : 212221240039
+```
 ### ActivityMain.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
